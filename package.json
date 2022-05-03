@@ -1,6 +1,6 @@
 {
     "name": "personal",
-    "homepage": "https://carlosvillalobossalas.github.io/personal/",
+    "homepage": "https://carlosvillalobossalas.github.io/personal",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
