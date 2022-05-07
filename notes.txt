@@ -3,3 +3,8 @@
 3. estudios
 4. experiencia laboral
 5. skills
+
+
+- responsive
+- ingles/español
+- modo oscuro/claro
