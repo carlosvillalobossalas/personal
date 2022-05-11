@@ -13,3 +13,13 @@
     display: inline;
     margin: 0 3rem;
 }
+
+@media (max-width: 395px){
+    .social-networks-list{
+        overflow: auto;
+    }
+
+    .social-networks-list li{
+        margin: 0 0.5rem;
+    }
+}
