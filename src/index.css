@@ -25,13 +25,9 @@ body{
 }
 
 .info-container{
-  align-items: center;
-  background-color: #FFFFFF;
-  display: flex;
-  font-size: 3rem;
   height: 75%;
-  justify-content: center;
 }
+
 
 .footer{
   align-items: center;
